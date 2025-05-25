@@ -16,7 +16,7 @@ Built with **Python**, **Streamlit**, and **Plotly**.
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ---
 
